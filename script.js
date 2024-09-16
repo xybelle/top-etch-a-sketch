@@ -1,4 +1,4 @@
-const grid = document.querySelector(".container");
+const grid = document.querySelector(".grid-container");
 
 function createGrid() {
     const numberOfRows = 16;
